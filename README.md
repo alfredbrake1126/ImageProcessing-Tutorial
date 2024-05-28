@@ -1,6 +1,6 @@
 # image processing from scratch
 
-## what is this?
+## What is THIS?
 This repository contains many interesting image processing algorithms that are written from scratch. Read these codes will allow you to have a comprehensive understanding of the principles of these algorithms. 
 
 <strong>Implementation</strong>  
